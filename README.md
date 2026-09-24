@@ -2,7 +2,7 @@
 
 Financial summaries (2019-2025) and distress signals for 260,000+ Korean corporations, from FSC and DART data.
 
-**Try it (free tier, no card):** [https://rapidapi.com/193market/api/korea-company-financials-risk](https://rapidapi.com/193market/api/korea-company-financials-risk) · also on [api.market](https://api.market/store/193market/korea-company-financials-risk)
+**Try it (free tier for evaluation):** [https://rapidapi.com/193market/api/korea-company-financials-risk](https://rapidapi.com/193market/api/korea-company-financials-risk) · also on [api.market](https://api.market/store/193market/korea-company-financials-risk)
 
 Financial summaries (2019-2025) for about 260,000 Korean audited corporations -- sales, operating profit, net income, assets, liabilities, equity, debt ratio -- joined with company registry data (English name, business registration number, address, listing status, auditor) and DART filings that signal financial distress (default, court rehabilitation filing, dissolution, business suspension). Government-sourced data as English JSON.
 
@@ -134,7 +134,7 @@ The full OpenAPI 3 specification is in [`openapi.json`](openapi.json).
 | Plan | Price | Included per month |
 |---|---|---|
 | BASIC | free | a small monthly quota for evaluation |
-| PRO / ULTRA / MEGA | from $49 / month | 1,000+ requests, per-request overage, higher rate limits |
+| PRO / ULTRA / MEGA | from $49 / month | larger monthly quotas, per-request overage, higher rate limits |
 
 Current prices are always on the [RapidAPI pricing page](https://rapidapi.com/193market/api/korea-company-financials-risk/pricing). Error responses (4xx/5xx) are not charged on api.market.
 
